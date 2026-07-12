@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/lib/jackson-annotations-2.17/.mvn/wrapper" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-annotations-2.17/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-annotations-2.17/src/test/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-core-2.17/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-core-2.17/src/test/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-databind-2.17/src/main/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-databind-2.17/src/test-jdk11/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-databind-2.17/src/test-jdk17/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-databind-2.17/src/test-jdk21/java" />
+      <root url="file://$PROJECT_DIR$/lib/jackson-databind-2.17/src/test/java" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/lib" recursive="false" />
+  </library>
+</component>
